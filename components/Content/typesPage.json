@@ -1,0 +1,182 @@
+{
+  "metaTitle": "Roofing Contractor {location} - RJ Talbot Roofing Contracting",
+  "metaDescription": "Trusted roof repair, replacement and inspection specialists in {location}. Licensed crews, clear estimates, and reliable workmanship. [phone]",
+  "bannerQuote": "",
+  "bannerImage": "https://ik.imagekit.io/rjtalbot/roofing/banner_roofers_service_banner.jpg",
+  "h1Banner": "Roofing Contractor {location} - RJ Talbot Roofing Contracting",
+  "p1Banner": "Trusted roof repair, replacement and inspection specialists in {location}. Licensed crews, clear estimates, and reliable workmanship. [phone]",
+  "serviceTitle": "Professional Roofing Contractor Services in {location}",
+  "serviceData": {
+    "title": "Comprehensive Roofing Services by RJ Talbot Roofing Contracting",
+    "p": "RJ Talbot Roofing Contracting delivers honest estimates, licensed workmanship, and durable roofing solutions backed by years of hands-on experience in {location}.",
+    "lists": [
+      {
+        "title": "Roof Repair & Leak Repair",
+        "shortDescription": "Fast, targeted repairs to stop leaks and prevent further damage \u2014 preserving your home and lowering long-term costs.",
+        "description": "<ul> <li> <p><strong>What we fix</strong>: shingle damage, flashing failures, valley leaks, chimney and skylight seals</p> </li> <li> <p><strong>Benefits</strong>:</p> <ul class='list-disc pl-4'> <li> <p>Quick response to minimize interior damage</p> </li> <li> <p>Transparent estimates and photo documentation</p> </li> <li> <p>Warranty-backed repairs with quality materials</p> </li> </ul> </li> </ul>",
+        "h2": "Roof Repair Specialists in {location}",
+        "p2": "When a leak appears, quick action matters. Our technicians assess damage, stop active leaks, and provide a durable repair plan to protect your structure. Call us to schedule an emergency or routine repair and get a clear, written estimate.",
+        "tyesHeading": "When to Call for Roof Repair in {location}",
+        "slug": "roof-repair-leak-repair",
+        "imageUrl": "https://ik.imagekit.io/rjtalbot/roofing/roof_repair.jpg",
+        "overViewHeading": "Overview Of Roof Repair Services",
+        "overViewContent": "<div class='mb-2 font-semibold'>Typical Repair Includes:</div><ul class='list-disc pl-4 mb-4'><li><p>On-site roof inspection and leak detection</p></li><li><p>Shingle replacement, flashing repair, and sealing</p></li><li><p>Gutter and downspout checks</p></li></ul><div class='mb-2 font-semibold'>Why Repair Now:</div><ul class='list-disc pl-4'><li><p>Prevents interior water damage and mold</p></li><li><p>Extends the life of your roof at a lower cost than replacement</p></li></ul>",
+        "leftSection": {
+          "title": "Emergency Roof Tarps & Temporary Protection",
+          "description": "We provide temporary tarping and stabilization to protect your home after storm damage until permanent repairs are scheduled."
+        },
+        "rightSection": {
+          "title": "Detailed Repair Estimates",
+          "description": "Every repair comes with photos and a written scope so you know what we fixed and why \u2014 helpful for insurance claims."
+        },
+        "comapreHeading": "Common Repair Scenarios",
+        "allowedHeading": "Typical Materials Repaired",
+        "allowedItems": [
+          "Asphalt shingles (3-tab & architectural)",
+          "Metal flashing and drip edges",
+          "Skylight and chimney seals",
+          "Roof vents and pipe boots"
+        ],
+        "prohibitedHeading": "What We Don't Service",
+        "prohibitedItems": [
+          "Structural framing replacement (we coordinate with structural contractors)",
+          "Asbestos abatement (requires specialized removal)",
+          "Hazardous chemical remediation"
+        ],
+        "idealHeading": "Ideal Situations for Repair",
+        "idealProjects": [
+          "Small to moderate leak repair",
+          "Shingle blow-off after storms",
+          "Isolated flashing or penetration failures",
+          "Pre-listing roof fixes before selling"
+        ]
+      },
+      {
+        "title": "Full Roof Replacement",
+        "shortDescription": "Complete tear-off and install with premium materials and manufacturer-backed warranties for long-term protection.",
+        "description": "<ul> <li> <p><strong>Scope</strong>: full tear-off or overlay, underlayment, ventilation upgrades, and new shingles or metal systems</p> </li> <li> <p><strong>Benefits</strong>:</p> <ul class='list-disc pl-4'> <li> <p>Improve curb appeal and home value</p> </li> <li> <p>Upgraded materials and better energy performance</p> </li> <li> <p>Comprehensive clean-up and disposal included</p> </li> </ul> </li> </ul>",
+        "h2": "Full Roof Replacement Services in {location}",
+        "p2": "When repairs aren\u2019t enough, our replacement crews provide efficient tear-off and installation using trusted shingle and metal roofing brands. We\u2019ll review options, timelines, and warranties so you can choose the best solution for your budget.",
+        "tyesHeading": "Why Choose Replacement?",
+        "p3": "Increased property value | Modern materials and improved energy efficiency | Extended warranty options | Professional project management",
+        "seoContent": "<h2 class='text-3xl font-bold mb-4'>Trusted Roof Replacement Contractors in {location}</h2><p>Ready for a new roof? We guide you through material selection and handle the entire replacement with attention to detail and safety. Ask about our shingle and metal roofing options.</p>",
+        "slug": "full-roof-replacement",
+        "imageUrl": "https://ik.imagekit.io/rjtalbot/roofing/roof_replacement.jpg",
+        "overViewHeading": "Overview Of Roof Replacement",
+        "overViewContent": "<div class='mb-2 font-semibold'>What's Included:</div><ul class='list-disc pl-4 mb-4'><li><p>Full tear-off or single-layer overlay</p></li><li><p>New underlayment, ice & water shield where required</p></li><li><p>New flashing, ridge vents, and drip edges</p></li></ul><div class='mb-2 font-semibold'>Project Timeline:</div><div class='mb-2'>Most residential replacements completed within 1\u20133 days depending on size and weather.</div>",
+        "leftSection": {
+          "title": "Warranty Options",
+          "description": "We offer manufacturer warranties on materials and our own workmanship warranty for peace of mind."
+        },
+        "rightSection": {
+          "title": "Financing & Insurance Help",
+          "description": "Ask about financing plans and documentation assistance for insurance claims after storm damage."
+        },
+        "comapreHeading": "Replacement Material Options",
+        "allowedHeading": "Popular Materials",
+        "allowedItems": [
+          "Architectural asphalt shingles",
+          "Metal roofing panels",
+          "Synthetic underlayment",
+          "Premium ridge and ventilation systems"
+        ],
+        "prohibitedHeading": "Not Recommended For",
+        "prohibitedItems": [
+          "Overlaying multiple existing shingle layers (may void warranties)",
+          "Roof systems incompatible with structure without prior engineering"
+        ],
+        "idealHeading": "Ideal Projects for Replacement",
+        "idealProjects": [
+          "End-of-life roofs with widespread wear",
+          "Homes with repeated leaks despite repairs",
+          "Upgrades for improved curb appeal and resale",
+          "Insurance-approved storm replacements"
+        ]
+      },
+      {
+        "title": "Roof Inspection & Maintenance",
+        "shortDescription": "Proactive inspections, seasonal tune-ups, and preventative maintenance to extend roof life and avoid costly repairs.",
+        "description": "<ul> <li> <p><strong>Services</strong>: full roof inspections, maintenance shingle replacement, gutter cleaning, and ventilation checks</p> </li> <li> <p><strong>Benefits</strong>:</p> <ul class='list-disc pl-4'> <li> <p>Catch small issues before they escalate</p> </li> <li> <p>Extend the lifespan of your roof and protect your attic</p> </li> <li> <p>Documentation for home insurance and resale</p> </li> </ul> </li> </ul>",
+        "h2": "Roof Inspection & Maintenance in {location}",
+        "p2": "Regular inspections help you budget for repairs and avoid emergency costs. We provide clear reports, recommended actions, and maintenance plans tailored to your roof's type and age.",
+        "tyesHeading": "Maintenance Plans Available",
+        "p3": "Seasonal checks | Gutter and flashing maintenance | Moss and debris removal | Attic ventilation assessments",
+        "seoContent": "<h2 class='text-3xl font-bold mb-4'>Professional Roof Inspections in {location}</h2><p>Schedule a proactive inspection to identify weak spots early. Our team provides honest recommendations and maintenance options to keep your roof performing well year-round.</p>",
+        "slug": "roof-inspection-maintenance",
+        "imageUrl": "https://ik.imagekit.io/rjtalbot/roofing/roof_inspection.jpg",
+        "overViewHeading": "Overview Of Inspection & Maintenance",
+        "overViewContent": "<div class='mb-2 font-semibold'>Inspection Checklist:</div><ul class='list-disc pl-4 mb-4'><li><p>Shingle condition and granule loss</p></li><li><p>Flashing and penetration integrity</p></li><li><p>Ventilation and attic moisture assessment</p></li></ul><div class='mb-2 font-semibold'>Recommended Frequency:</div><div class='mb-2'>Annual inspection plus after major storms.</div>",
+        "leftSection": {
+          "title": "Free Inspection Report",
+          "description": "Every inspection includes a photo-backed report and maintenance recommendations."
+        },
+        "rightSection": {
+          "title": "Maintenance Agreements",
+          "description": "Sign up for annual checkups to receive priority scheduling and discounted repair rates."
+        },
+        "comapreHeading": "What Inspections Reveal",
+        "allowedHeading": "Common Findings",
+        "allowedItems": [
+          "Loose or missing shingles",
+          "Clogged gutters and downspouts",
+          "Damaged flashing around chimneys and vents",
+          "Inadequate attic ventilation"
+        ],
+        "prohibitedHeading": "Limitations",
+        "prohibitedItems": [
+          "Sub-roof structural inspections (may require contractor/engineer)",
+          "Interior mold remediation (we recommend specialists)"
+        ],
+        "idealHeading": "Great Uses for Inspections",
+        "idealProjects": [
+          "Pre-purchase roof assessments",
+          "Seasonal tune-ups before heavy rain or snow",
+          "Post-storm condition reports",
+          "Maintenance for older roofs"
+        ]
+      }
+    ],
+    "whyChoose": {
+      "heading": "What Sets Us Apart in {location}",
+      "bullets": [
+        "Experienced, licensed roofing professionals with local knowledge of common regional issues",
+        "Clear, written estimates and photo documentation for every project",
+        "Fast response for storm damage and emergency repairs",
+        "Competitive pricing with workmanship and manufacturer warranty options"
+      ]
+    },
+    "affordableWidget": {
+      "title": "Affordable Roofing Solutions",
+      "content": "We balance quality and cost with material options for every budget. From economical shingle choices to premium metal roofing, we provide transparent pricing, financing options, and long-term value without cutting corners."
+    },
+    "hourCtaWidget": {
+      "line": "Ready for a safer, drier roof? Get a quick inspection and clear estimate \u2014 schedule online or request a callback now."
+    },
+    "faqsReviews": {
+      "faqs": [
+        {
+          "q": "How quickly can you respond to a roof leak in {location}?",
+          "a": "We prioritize emergency leaks and typically respond within 24 hours for customers in {location}. Response times may vary during major storms."
+        },
+        {
+          "q": "Do you provide written estimates and warranties in {location}?",
+          "a": "Yes \u2014 every project in {location} comes with a written estimate and we offer workmanship warranties along with manufacturer guarantees on select materials."
+        },
+        {
+          "q": "Can you help with insurance claims for storm damage in {location}?",
+          "a": "Absolutely. We document damage with photos, provide scope and estimates, and communicate with insurers on behalf of homeowners in {location} when requested."
+        }
+      ],
+      "reviews": [
+        {
+          "name": "Emily R.",
+          "review": "RJ Talbot Roofing replaced our aging roof quickly and professionally. Great communication throughout the job in {location}."
+        },
+        {
+          "name": "Marcus D.",
+          "review": "Reliable crew and fair price \u2014 they repaired a persistent leak and provided useful maintenance tips for our {location} home."
+        }
+      ]
+    }
+  }
+}

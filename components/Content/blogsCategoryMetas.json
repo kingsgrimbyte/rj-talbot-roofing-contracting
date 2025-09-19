@@ -1,0 +1,14 @@
+{
+  "usa": {
+    "title": "Residential Roofing Services in {location}",
+    "description": "Trusted local roofing team for inspections, repairs, and replacements using durable materials, clear quotes, and prompt service. [555-456-7890]"
+  },
+  "roof-types": {
+    "title": "Roof Repair Services in {location}",
+    "description": "Expert roof repair team fixing leaks, storm damage, and missing shingles with fast response, clear estimates, and durable repairs. [555-456-7890]"
+  },
+  "roof-materials": {
+    "title": "Commercial Roofing Services in {location}",
+    "description": "Commercial roofing pros for metal, membrane, and built-up roofs offering preventive care, energy-efficient upgrades, and clear pricing. [555-456-7890]"
+  }
+}

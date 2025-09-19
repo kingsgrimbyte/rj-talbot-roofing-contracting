@@ -1,0 +1,70 @@
+{
+  "metaTitle": "Roofing Services in [location]",
+  "metaDescription": "Trusted local roofing pros offering installation, repair, gutters, chimneys & commercial roofs with expert craftsmanship. Call now today [phone]",
+  "bannerQuote": "",
+  "bannerImage": "https://ik.imagekit.io/z6skgnupx/uploads/2025/06/roofers-on-residential-roof_Jk9f8b.jpg",
+  "h1Banner": "Roofing Services in [location]",
+  "p1Banner": "Trusted local roofing pros offering installation, repair, gutters, chimneys & commercial roofs with expert craftsmanship. Call now today [phone]",
+  "serviceTitle": "",
+  "serviceData": {
+    "title": "Comprehensive Roofing Services for Every Property",
+    "p": "RJ Talbot Roofing Contracting is a family-owned roofing contractor built on integrity, clear communication, and high-quality workmanship. We focus on durable materials, transparent estimates, and respectful on-site behavior while delivering dependable service to homeowners and businesses in [location].",
+    "lists": [
+      {
+        "title": "Residential Roofing in [location]",
+        "description": "Full-service residential roofing: new roof installation, shingle replacement, leak repair, attic ventilation, and chimney flashing to protect homes for decades.",
+        "h2": "Protect Your Home with Expert Residential Roofing",
+        "p2": "Our residential roofing work covers asphalt shingles, metal roofs, ventilation upgrades, and precise flashing around chimneys to prevent leaks. We prioritize curb appeal and long-term protection so families sleep easier under a solid roof.",
+        "h3": "Common Residential Needs We Solve",
+        "p3": "New roof installs | Shingle replacement | Leak detection & repair | Ventilation upgrades | Chimney flashing | Roof inspections",
+        "seoContent": "<h2>Residential Roofing Services in [location]</h2><p>From starter homes to high-end properties, our residential roofing services in [location] combine quality materials and careful installation. We address gutters, ventilation, and chimney flashing so the entire roof system performs reliably. Schedule an inspection with RJ Talbot Roofing Contracting today.</p>",
+        "slug": "residential-roofing",
+        "imageUrl": "https://ik.imagekit.io/z6skgnupx/uploads/2025/06/residential-roof-installation_abC12.jpg"
+      },
+      {
+        "title": "Commercial Roofing in [location]",
+        "description": "Commercial roofing solutions for flat and low-slope systems including TPO, EPDM, modified bitumen, preventative maintenance, and fast emergency repairs.",
+        "h2": "Commercial Roofing Built for Business",
+        "p2": "We keep businesses protected with efficient commercial roofing installations and maintenance that minimize downtime. Our crews understand rooftop equipment, drainage, and the building codes that matter to property managers.",
+        "h3": "Services for Commercial Properties",
+        "p3": "Flat roof installation | Roof coating & restoration | Regular maintenance plans | Emergency leak response | Drainage & gutter coordination",
+        "seoContent": "<h2>Commercial Roofing Services in [location]</h2><p>Local businesses in [location] rely on RJ Talbot Roofing Contracting for dependable commercial roofing. We handle TPO, EPDM, and modified systems and coordinate roof work to keep operations running smoothly.</p>",
+        "slug": "commercial-roofing",
+        "imageUrl": "https://ik.imagekit.io/z6skgnupx/uploads/2025/06/commercial-roofing_team_Xy9.jpg"
+      },
+      {
+        "title": "Roof Installation in [location]",
+        "description": "Complete roof installation using trusted brands and proven techniques—shingles, metal, and low-slope systems—to ensure longevity and energy efficiency.",
+        "h2": "New Roof Installation You Can Count On",
+        "p2": "Whether it’s a new build or a full replacement, our installation crews follow best practices for underlayment, flashing, ventilation, and fastener placement to protect your investment for years to come.",
+        "h3": "Installation Options",
+        "p3": "Asphalt shingles | Architectural shingles | Metal roofing | Underlayment upgrades | Energy-efficient options | Full tear-off or overlay",
+        "seoContent": "<h2>Professional Roof Installation in [location]</h2><p>When it’s time for a new roof in [location], RJ Talbot Roofing Contracting provides detailed planning, material guidance, and expert installation. We handle permit coordination and post-install cleanup so the process is easy for you.</p>",
+        "slug": "roof-installation",
+        "imageUrl": "https://ik.imagekit.io/z6skgnupx/uploads/2025/06/new-roof-installation_fgH23.jpg"
+      },
+      {
+        "title": "Roof Repair in [location]",
+        "description": "Fast, reliable roof repairs for leaks, storm damage, hail, and age-related wear—plus emergency tarping and timely insurance coordination.",
+        "h2": "Prompt Roof Repair When You Need It Most",
+        "p2": "From small leak patching to storm damage restoration, our repair teams diagnose issues quickly and perform durable fixes. We also document damage for insurance claims and provide emergency tarping when required.",
+        "h3": "Repair Capabilities",
+        "p3": "Leak repair | Storm & hail damage | Flashing & valley repair | Shingle replacement | Ice dam remediation | Insurance claim support",
+        "seoContent": "<h2>Roof Repair Services in [location]</h2><p>We respond quickly to roof damage in [location], offering temporary protection and long-term repairs. Our crews address flashing, valleys, chimney seals, and related gutter or ventilation issues to restore roof integrity.</p>",
+        "slug": "roof-repair",
+        "imageUrl": "https://ik.imagekit.io/z6skgnupx/uploads/2025/06/roof-repair_service_Jk3.jpg"
+      },
+      {
+        "title": "Snow & Ice Panels, Gutters, Chimney & Ventilation in [location]",
+        "description": "Seasonal protection and system repairs: snow and ice panels, gutter and downspout repair, chimney flashing, and attic ventilation to prevent damage and improve efficiency.",
+        "h2": "Protective Roofing Systems & Maintenance",
+        "p2": "We install snow and ice panels to prevent ice dams, repair gutters and pipe systems to ensure proper drainage, service chimneys to stop leaks, and balance ventilation to extend roof life and lower energy costs.",
+        "h3": "Seasonal & System Services",
+        "p3": "Snow/ice panels | Gutter & downspout repair | Chimney flashing and repointing | Attic ventilation improvements | Preventative maintenance",
+        "seoContent": "<h2>Gutters, Chimneys, Ventilation & Snow Panels in [location]</h2><p>Our full-service approach covers the roof plus the systems that protect it. In [location] we install snow and ice panels, repair gutters and pipes, service chimneys, and optimize ventilation so your roof performs through every season.</p>",
+        "slug": "snow-ice-gutters-chimney-ventilation",
+        "imageUrl": "https://ik.imagekit.io/z6skgnupx/uploads/2025/06/gutters-chimney-ventilation_RoofCare.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "metaTitle": "Roofing Services in [location] | RJ Talbot Roofing Contracting",
+  "metaDescription": "Trusted local roofing services: repairs, replacements & inspections by RJ Talbot Roofing Contracting. Clear pricing and reliable work. Call [phone]",
+  "bannerQuote": "",
+  "bannerImage": "https://ik.imagekit.io/z6skgnupx/uploads/2025/06/roofers-working-on-house-roof.jpg",
+  "h1Banner": "Roofing Services in [location] | RJ Talbot Roofing Contracting",
+  "p1Banner": "Trusted local roofing services: repairs, replacements & inspections by RJ Talbot Roofing Contracting. Clear pricing and reliable work. Call [phone]",
+  "p2": "RJ Talbot Roofing Contracting is a family-run roofing company built on honest estimates, quality workmanship, and respectful customer service. We focus on durable solutions, safety, and clear communication to protect your property and your investment in [location].",
+  "h2Image": "https://ik.imagekit.io/z6skgnupx/uploads/2025/06/roof-repair-truck-and-crew.jpg",
+  "missionSection": [
+    {
+      "title": "Expert Roofing Services in [location]",
+      "description": "From targeted repairs to full roof replacements, our experienced crew ensures every roof protects your home and improves curb appeal with long-lasting results."
+    },
+    {
+      "title": "Our Mission",
+      "description": "To deliver dependable, honest roofing services that keep families and businesses safe under a weatherproof roof—backed by transparent estimates and respectful service."
+    },
+    {
+      "title": "Our Values",
+      "description": "Integrity, craftsmanship, timely communication, and respect for your property guide every project we undertake."
+    }
+  ],
+  "areaweserveSection": {
+    "description": "Fast leak diagnosis and targeted repairs that stop water intrusion and extend the life of your roof. We fix flashing, damaged shingles, and underlayment issues with workmanship that lasts.",
+    "linkText": "Check our Roofing service locations here.",
+    "link": "/locations"
+  }
+}
